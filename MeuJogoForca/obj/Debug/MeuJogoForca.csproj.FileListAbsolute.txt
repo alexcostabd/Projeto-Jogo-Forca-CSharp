@@ -1,0 +1,9 @@
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\bin\Debug\MeuJogoForca.exe.config
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\bin\Debug\MeuJogoForca.exe
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\bin\Debug\MeuJogoForca.pdb
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\obj\Debug\MeuJogoForca.csprojAssemblyReference.cache
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\obj\Debug\MeuJogoForca.Form1.resources
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\obj\Debug\MeuJogoForca.Properties.Resources.resources
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\obj\Debug\MeuJogoForca.csproj.GenerateResource.cache
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\obj\Debug\MeuJogoForca.exe
+C:\Users\Alex Costa\MeusProjetosGit\ProjetoJogoForca\MeuJogoForca\obj\Debug\MeuJogoForca.pdb
