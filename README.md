@@ -1,2 +1,3 @@
 # Projeto-Jogo-Forca-CSharp
-Aplicação para um jogo de forca. 
+Aplicação para um jogo de forca com .NET core.
+
